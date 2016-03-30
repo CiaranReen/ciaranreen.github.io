@@ -2,7 +2,7 @@
 layout: post
 title:  "Variable Hoisting"
 date:   2016-03-29 23:02:00 +0000
-categories: jekyll update
+categories: javascript
 ---
 In most languages, mainstream or obscure, variables are run in the order of program execution. This is a standard way for a programmer to think about
 his or her code and one of the reasons experienced programmers who are new to JavaScript struggle with variable hoisting.
