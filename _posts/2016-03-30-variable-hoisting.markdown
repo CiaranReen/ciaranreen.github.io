@@ -42,7 +42,3 @@ That clearer? Now when the function gets called we can see the variable `alertMe
 For this reason, it is considered good practice to declare all variables at the top of its surrounding scope to avoid hard-to-find bugs.
 
 Take care, JavaScripters.
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
