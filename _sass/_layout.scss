@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid #F03249;
+    border-top: 5px solid $brand-color;
     border-bottom: 1px solid $grey-color-light;
     min-height: 140px;
 
@@ -11,8 +11,8 @@
 }
 
 .site-title {
-    font-size: 38px;
-    font-weight: 300;
+    font-size: 52px;
+    font-weight: 900;
     line-height: 140px;
     letter-spacing: -1px;
     margin-bottom: 0;
