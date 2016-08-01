@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Understanding ES2015 Imports and Tree Shaking"
+comments: true
 date:   2016-07-17 01:28:00 +0100
 categories: javascript
 ---
