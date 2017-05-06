@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "Structure your Redux apps like a boss"
-date:   2015-11-17 16:16:01 -0600
+date:   2017-04-28 16:16:01 -0723
 categories: redux react
 ---
